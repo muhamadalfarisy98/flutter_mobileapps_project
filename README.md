@@ -1,5 +1,5 @@
 # FinalProjectFlutter
-Tugas Akhir SanberCode : **Flutter Mobile Apps Batch 26** :wave:
+Tugas Akhir : **Flutter Mobile Apps Batch 26** :wave:
 
 ## Description
 Implementasi desain dan pembuatan mobile apps menggunakan Framework _**Flutter**_ dan bahasa pemrograman _**Dart**_ . mengintegrasikan applikasi dengan API public yang tersedia. 
