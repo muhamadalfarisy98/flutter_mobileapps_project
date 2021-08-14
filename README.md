@@ -45,9 +45,6 @@ Figma Prototype
 2. Mobile apps
 > https://youtu.be/iBZL0yCk1kI
 
-## Instagram Posting
-
-![Screenshot_2021-08-08-20-50-12-70](https://user-images.githubusercontent.com/23287190/128635780-5d3e7acc-ae93-4428-8e45-00ddcbc74fbf.png)
 
 
 
