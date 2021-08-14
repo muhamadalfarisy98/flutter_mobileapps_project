@@ -1,0 +1,14 @@
+1. pembahasan async await future
+(https://youtu.be/QSqoBHHRf24)
+
+2. pembahasan tugas 13 (login screen)
+(https://youtu.be/1Uo3tln0Tf0)
+
+3.layouting 
+(https://youtu.be/LCj-89ZrI_I)
+
+4. tugas 15
+(https://youtu.be/vRNmMQoHzmc)
+
+
+https://github.com/renomureza/api-berita-indonesia
