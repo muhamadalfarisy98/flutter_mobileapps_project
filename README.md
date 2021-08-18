@@ -36,9 +36,6 @@ Figma
 Figma Prototype 
 > https://www.figma.com/proto/fhJDHTIM3GKN66lmoweY04/FinalProject_MuhamadAlfarisy?node-id=73%3A46
 
-## File apk 
-> https://drive.google.com/file/d/1ZcmLHFjg1mPwa38zpC1SjaiGNMOsvUG1/view?usp=sharing
-
 ## Link Youtube
 1. Mockup Figma
 > https://youtu.be/ImKemL0P9qk
